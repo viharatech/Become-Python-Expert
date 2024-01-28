@@ -12,8 +12,6 @@
 # Basic of Python Programming Language
 
 
-This is a practical introduction to Python Programming Language. The style of this repo was inspired by [Chip Huyen Cool Python repo](https://github.com/chiphuyen/python-is-cool). You can find the companion notebook [here](https://github.com/Nyandwi/python_basics/blob/main/python-basics.ipynb). For advanced Python concepts, check [this repo](https://github.com/Nyandwi/PythonPro)(work in progress)!
-
 Python is an interpreted, high-level, and general purpose programming language that was designed for efficiency, readability, and simplicity.
 
 Python design philosophy emphasizes simplicity and code readability. There are about 19 Python design guiding principles, the top 8 being:
